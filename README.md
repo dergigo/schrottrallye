@@ -7,7 +7,7 @@ Nö. Du kaufst dir eigens für die Rallye ein schrottreifes Auto, das spätesten
 
 
 ## Kick-off:
-Am Sonntag, 13. Mai 2017 um 19:42 Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 41, München.
+Am Sonntag, **14. Mai 2017** um 19:42 Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 41, München.
 
 ## Rahmenbedingungen:
 * Findet in den bayerischen Schulferien 2018 statt.
