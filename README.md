@@ -24,7 +24,7 @@ Auf der ASM, erstes Juniwochenendein den Räumen des [CCC München](https://muc.
 
 ### Terminfindung:
 * Sinnvoll erscheint uns ein zeitlicher Umfang von 2 Wochen.
-* Bis zur ASM eintragen, welche Wochen im Sommer 2018 euch gelegen kommen: [https://dudle.inf.tu-dresden.de/schrottrallye/]
+* Bis zur ASM eintragen, welche Wochen im Sommer 2018 euch gelegen kommen: [Dudle](https://dudle.inf.tu-dresden.de/schrottrallye/)
 
 ### weiteres Vorgehen
 * Nächstes Treffen auf der ASM:
