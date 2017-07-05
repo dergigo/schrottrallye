@@ -1,8 +1,10 @@
 # Schrottrallye 2018
 
 ## WICHTIGE NEWS:
-* Nächstes Treffen: Am XXXXXX, XXXX.XXXX.2017 19:42 Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 41, München.
-* Die Mailingliste ist derzeit kaputt. An der Wiederherstellung wird gearbeitet.
+* Nächstes Treffen: Am Montag, 11.9.2017, 19:42 Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 41, München.
+* Die Mailingliste ist derzeit kaputt. Sie wird es bleiben. Nutzt Twitter!
+* /j #schrottrallye auf darkfasel.
+
 
 ## "Dann mach' ich mir halt meine eigene Schrottrallye!"
 Was wie? Schrottrallye? Das heisst, ich fahr mein Auto zu Schrott?
@@ -15,8 +17,6 @@ Nö. Du kaufst dir eigens für die Rallye ein schrottreifes Auto, das spätesten
 * [Regeln](regeln.md)
 * [Aufgaben](aufgaben.md)
 * [Offene Fragen](offenefragen.md)
-
-
 
 ## Allgemeins:
 ### Termin:
