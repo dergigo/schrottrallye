@@ -33,3 +33,5 @@
 * Ein Einschussloch ins Auto bekommen
 * Die hellste Unterbodenbeleuchtung gewinnt.
 * Die beste Fahrzeugspende am Ende.
+
+* Das Team mit den geringsten Ausgaben bekommt Bonuspunkte.
