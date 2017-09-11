@@ -17,7 +17,7 @@
 * Für Übernachtungen und Mahlzeiten dürfen 20€ / Person / Tag im Durchschnitt nicht übersteigen
 * Es darf nichts mitgenommen werden, dessen technischer Stand neuer ist als 1998.
 ** Es darf nur Musik gehört werden, die älter als 1998 ist. (Ausnahme: Radio)
-* Es dürfen keine Karten mitgenommen werden, abgesehen von den Sovjetischen Generalstabskarten
+* Es dürfen keine Karten mitgenommen werden, abgesehen von den Sovjetischen Generalstabskarten (z.B. http://loadmap.net/en/m11170 )
 * Jedes Team hat für einen Tag die obhut über die Tagesaufgabe(n) zu übernehmen und auch den Schied zu richten.
 
 * Es darf keine Versicherung / Schutzbrief genutzt werden, um den ADAC oder eine der vergleichbaren Autoclubs bei einer Panne zu bezahlen.
