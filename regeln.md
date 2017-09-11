@@ -23,3 +23,9 @@
 * Es darf keine Versicherung / Schutzbrief genutzt werden, um den ADAC oder eine der vergleichbaren Autoclubs bei einer Panne zu bezahlen.
 * Für jedes Fahrzeug sind 500€ in Bar für Reperaturen o.Ä. der Fahrzeuge mitzunehmen, mehr darf insgesamt dafür nicht ausgegeben werden.
 
+* Ab 8 Fzg: Ein Team besteht aus 2 Fzg (also 4 PAX)
+* Es wird morgens zeitversetzt gestartet
+* Es dürfen keine Orte mit mehr als 100.000 Einwohnern durchfahren werden.
+* Das Tagesziel wird vom Tagesteam im Laufe des Tages erst bekannt gegeben (im Rahmen von 100km um einen vorab abgesprochenen Etappenpunkt)
+
+
