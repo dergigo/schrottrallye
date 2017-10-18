@@ -6,7 +6,7 @@ Es handelt sich zu keinem Zeitpunkt um ein Rennen auf öffentlichen Straßen. Di
 
 ## Sekundäre Direktive
 
-Wer die Regeln absichtlich zu konsequent Auslegt, um anderen auf die Nerven zu gehen, wird nach kollektiver Verwarnung von der Rallye ausgeschlossen. Diese Regel ist unveränderlich.
+Wer die Regeln absichtlich zu konsequent auslegt, um Anderen auf die Nerven zu gehen, wird nach kollektiver Verwarnung von der Rallye ausgeschlossen. Diese Regel ist unveränderlich.
 
 ## Teams, Teilnehmer
 
