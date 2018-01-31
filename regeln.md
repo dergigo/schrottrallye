@@ -20,7 +20,7 @@ Wer die Regeln absichtlich zu konsequent auslegt, um Anderen auf die Nerven zu g
 ## Fahrzeuge, Equipment
 
 1. Fahrzeuge dürfen maximal einen Wert von ca. 1337€ haben und müssen mindestens 20 Jahre alt sein. Jedes Fahrzeug muss spätestens am Ziel gespendet werden.
-1. mit den 1337€ sind zudem ebenfalls abzudecken: Steuern, Versicherung, ggf. Tüv...
+1. mit den 1337€ sind zudem ebenfalls abzudecken: Steuern, Versicherung, ggf. TÜV...
 1. Es darf keine Versicherung / Schutzbrief genutzt werden, um den ADAC oder einen der vergleichbaren Autoclubs bei einer Panne zu bezahlen.
 1. Für jedes Fahrzeug sind 500€ in Bar für Reperaturen o.Ä. der Fahrzeuge mitzunehmen, mehr darf insgesamt dafür nicht ausgegeben werden.
 1. Es darf sich nichts nach Hause geschickt werden. Alles mitgenommene wird vor Ort gespendet/entsorgt oder mit dem Rückflug nach Hause mitgenommen.
@@ -32,7 +32,7 @@ Wer die Regeln absichtlich zu konsequent auslegt, um Anderen auf die Nerven zu g
 ## Fortbewegung, Navigation
 
 1. Es dürfen keine elektronischen Navigations- oder GPS-Geräte benutzt werden. Ausnahme sind GPS-Geräte, die die Strecke dokumentieren, nicht aber der Navigation dienen.
-1. Es dürfen keine Karten mitgenommen werden, abgesehen von den Sovjetischen Generalstabskarten (z.B. http://loadmap.net/en/m11170 ). Dies soll die Herausforderungen der Navigation mit sich bringen. Die Karten werden vor Abfahrt gemeinsam angeschafft.
+1. Es dürfen nur gedruckte Karten mitgenommen werden. Dies soll die Herausforderungen der Navigation mit sich bringen.
 1. Autobahnen und Mautstrecken sind in der Regel verboten. (Ebenso wie Fähren etc.)
 
 ## Ziel, Etappen, Tagesaufgaben

@@ -22,8 +22,8 @@ Nö. Du kaufst dir eigens für die Rallye ein schrottreifes Auto, das spätesten
 ### Termin:
 * Alle Teilnehmer haben sich von 18.8.2018 bis 2.9.2018 frei zu halten.
 ### Ziel:
-* Zwei Ziele (Baku und Tallin) bleiben in Diskussion. Besonderheiten:
-** Zu Baku ist unklar, ob man das FZG einführen und dort verkaufen kann. Das Internet ist sich da auch unsicher.
+* Tallin (Estland) via BBB (Balkan, Bulgarien, Bukarest)
+
 ### Vorbilder:
 * [Allgäu-Orient-Rallye](https://de.wikipedia.org/wiki/Allg%C3%A4u-Orient-Rallye)
 * [Mongol-Rallye](https://en.wikipedia.org/wiki/Mongol_Rally)

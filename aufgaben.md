@@ -1,9 +1,10 @@
 # Brainstorming möglicher "Tagesaufgaben":
+* Für eine Etappe darf nur mit sovjetischen Generalstabskarten navigiert werden.
 * "Fotochallange": Man muss z.B. 6 bestimmte Motive in einer bestimmten Reihenfolge fotografieren. Nachbearbeiten, Umsortieren, Löschen o.Ä. ist nicht erlaubt.
 * Lokale Spezialitätenladenlandmarks besuchen
 * Rennen auf einer abgesperrten Strecke abseits der öffentlichen Straßen. (z.B. in Grobnik)
 * Das Bernsteinzimmer finden
-* An jeder roten Ampel Faherwechsel
+* An jeder roten Ampel Fahrerwechsel
 * Fahraufgaben abseits der öffentlichen Straßen: Slalomfahren
 * Im Berufsverkehr in Istanbul eine Einkaufsliste einkaufen
 * Eintauschaufgaben --> Mateflasche in Ziege eintauschen
@@ -36,7 +37,7 @@
 
 * Das Team mit den geringsten Ausgaben bekommt Bonuspunkte.
 * Die meisten Fotos von Schildern mit "23" drauf.
-* Die meisten Grenzübergänge
+* Die meisten unterschiedlichen Grenzübergänge
 * Die meisten Geocaches am Weg loggen.
 * Am wenigsten Reifen verbraucht (Profil wird zu Beginn und Ende gemessen)
 * Am wenigsten Reifen verbraucht (Anzahl)
