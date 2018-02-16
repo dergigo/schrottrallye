@@ -1,7 +1,8 @@
 # Schrottrallye 2018
 
 ## WICHTIGE NEWS:
-* Nächstes Treffen: Am Mittwoch, 31.01.2018, 20:14 Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 39, UG, ZOC, München.
+* Infoabend für neuinteressenten: Am Sonntag, 18.03.2018, 19:00 Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 39, UG, ZOC, München.
+* Nächstes Treffen: Am Mittwoch, 21.02.2018, 19:42 Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 39, UG, ZOC, München.
 * Die Mailingliste ist derzeit kaputt. Sie wird es bleiben. Nutzt Twitter!
 * /j #schrottrallye auf darkfasel.
 
