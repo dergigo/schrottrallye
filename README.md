@@ -2,8 +2,8 @@
 
 ## WICHTIGE NEWS:
 * Infoabend für neuinteressenten: Am Sonntag, 18.03.2018, 19:00 Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 39, UG, ZOC, München.
-* Nächstes Treffen: Am Mittwoch, 21.02.2018, 19:42 Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 39, UG, ZOC, München.
-* Die Mailingliste ist derzeit kaputt. Sie wird es bleiben. Nutzt Twitter!
+* Nächstes Treffen: Am XXXXXX Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 39, UG, ZOC, München.
+* In die Mailingliste eintragen? [klick](mailto:schrottrallye+subscribe@googlegroups.com)
 * /j #schrottrallye auf darkfasel.
 
 
