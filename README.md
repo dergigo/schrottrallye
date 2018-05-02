@@ -18,7 +18,7 @@ Nö. Du kaufst dir eigens für die Rallye ein schrottreifes Auto, das spätesten
 * [Aufgaben](aufgaben.md)
 * [Offene Fragen](offenefragen.md)
 * [Routenplanung](routenplanung.md)
-* [Reisehinweise] (sicherheitshinweise.md)
+* [Reisehinweise](sicherheitshinweise.md)
 
 ## Allgemeins:
 ### Termin:
