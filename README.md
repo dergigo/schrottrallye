@@ -1,7 +1,7 @@
 # Schrottrallye 2018
 
 ## WICHTIGE NEWS:
-* Nächste Treffen: 6.April, 2.Mai, 18.Mai um 19 Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 39, UG, ZOC, München.
+* Nächste Treffen: 18.Mai um 19 Uhr in den Räumen des [CCC München](https://muc.ccc.de/), Schleißheimerstraße 39, UG, ZOC, München.
 
 * In die Mailingliste eintragen? [klick](mailto:schrottrallye+subscribe@googlegroups.com)
 * /j #schrottrallye auf darkfasel.
@@ -17,6 +17,7 @@ Nö. Du kaufst dir eigens für die Rallye ein schrottreifes Auto, das spätesten
 * [Regeln](regeln.md)
 * [Aufgaben](aufgaben.md)
 * [Offene Fragen](offenefragen.md)
+* [Routenplanung](routenplanung.md)
 
 ## Allgemeins:
 ### Termin:
