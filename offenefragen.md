@@ -12,8 +12,8 @@
 * Wunschvorstellung 4 Teams á 4 Personen (2 Fahrzeuge)
 * +2/-1 Team ist auch im Ramen des spaßigen
 * Aktuell:
-  * 3 Personen wirklich Fix
-  * 8 Personen so lala
+  * 6 Personen wirklich Fix
+  * 2 Personen so lala
   --> Wahrscheinlich bekommen wir spontan (ohne Zusatzwerbung) 2 Teams zusammen
   --> Wir müssten noch 2-3 weitere Teams aquirieren
 * Fragen: Sollen wir Einzelpersonen anmelden lassen oder Einzelfahrzeuge oder nur ganze Teams?

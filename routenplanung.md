@@ -1,19 +1,19 @@
 == Routenplanung ==
 
-1. Riejka (ca. 9h+)
-2. Markarska (ca 6,5h)
-3. Zlatibor (ca.6,5h)
-4. Eisernes Tor (ca. 6h)
-5. Bucharest (ca. 6h)
-6. Babadag (ca. 5h)
-7. Chisinau (ca. 6,5h)
-8. Odessa -> richtung Kiew weiter
-9. Kiew (ca. 8h)
-10. Kiew / Tschernobyl (Pausentag)
-11. Gomel (ca. 4h)
-12. Vilnius (ca. 7h)
-13. Riga (ca. 5h)
-14. Tallin (ca. 5h)
+1. Riejka (ca. 9h+) (Team PG)
+2. Markarska (ca 6,5h) (Team CF)
+3. Zlatibor (ca.6,5h) (Team MA)
+4. Eisernes Tor (ca. 6h) (Team PG)
+5. Bucharest (ca. 6h) (Team CF)
+6. Babadag (ca. 5h) (Team MA)
+7. Chisinau (ca. 6,5h) (Team PG)
+8. Odessa -> richtung Kiew weiter (Team CF)
+9. Kiew (ca. 8h) (Team MA)
+10. Kiew / Tschernobyl (Pausentag) (Team PG)
+11. Gomel (ca. 4h) (Team CF)
+12. Vilnius (ca. 7h) (Team MA)
+13. Riga (ca. 5h) (Team PG)
+14. Tallin (ca. 5h) (Team CF)
 
 
 ![Image](/img/route.jpg)

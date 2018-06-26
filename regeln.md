@@ -11,10 +11,9 @@ Wer die Regeln absichtlich zu konsequent auslegt, um Anderen auf die Nerven zu g
 ## Teams, Teilnehmer
 
 1. beim Start ist jedes Fahrzeug mit genau 2 Personen zu besetzen, das KFZ muss für 4 Personen ausgelegt sein.
-1. Ein Team besteht aus 2 Fahrzeugen (also 4 Personen)
+1. Ein Team besteht aus 1 Fahrzeug (also 2 Personen)
 1. Die Teilnehmer innerhalb eines Teams dürfen jederzeit beliebig Plätze tauschen.
-1. Verliert ein Team ein Fahrzeug auf dem Weg, so müssen alle vier Personen mit dem zweiten Auto weiterfahren.
-1. Verliert ein Team beide Fahrzeuge, so haben Sie sich per Anhalter oder öffentlichen Verkehrsmitteln zum Ziel zu bewegen.
+1. Verliert ein Team das Fahrzeug, so haben Sie sich per Anhalter oder öffentlichen Verkehrsmitteln zum Ziel zu bewegen.
 1. Jedes andere Team darf Anhalter mitnehmen.
 
 ## Fahrzeuge, Equipment
@@ -41,7 +40,7 @@ Wer die Regeln absichtlich zu konsequent auslegt, um Anderen auf die Nerven zu g
 1. spätestens 30 Tage vor Rallyebeginn wird für jede Tagesetappe ein Team festgelegt, das in besonderem Maße für diesen Tag verantwortlich ist: Das Team hat für diesen Tag die Obhut über die Tagesaufgabe(n) zu übernehmen und auch den Schied zu richten. Desweiteren hat das Tagesteam einen realistischen Übernachtungsplatz auszuwählen. Dieses Tagesetappenziel muss sich im Rahmen von 100km um den vorab abgesprochenen Etappenpunkt befinden.
 1. Das genaue Tagesetappenziel wird vom Tagesteam erst im Laufe des Tages bekannt gegeben. Dies kann - muss aber nicht - im Rahmen der Tagesaufgabe herauszufinden sein.
 
-1. Das Team, das als erstes das Tagesetappenziel erreicht hat, heizt den Grill an.
+1. Das Etappenteam, heizt auch den Grill an.
 1. Es wird morgens zeitversetzt gestartet. Dabei bekommt jedes Team vom Tagesverantwortungsteam des Vortags ein Zeitfenster zugeteilt.
 
 ## Überleben
